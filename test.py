@@ -96,6 +96,18 @@ not a
 (a and not (b or c))
 
 
+# Identity
+1 is 1 == True
+
+# Non Identity
+1 is not '1' == True:
+
+# Example
+bool(1) == True
+bool(True) == True
+
+1 and True == True
+1 is True == False
 
 
 
