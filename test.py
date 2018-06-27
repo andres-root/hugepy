@@ -34,3 +34,10 @@ items = [1, 2, 3]
 items.append('four')
 
 items.extend([5, 6, 7])
+
+
+thing = {}
+
+thing['name'] = 'James'
+
+thing[(1, 2)] = 'position'
