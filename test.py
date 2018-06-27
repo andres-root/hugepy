@@ -41,3 +41,12 @@ thing = {}
 thing['name'] = 'James'
 
 thing[(1, 2)] = 'position'
+
+
+thing = False
+
+thing = bool('any object')  # True
+
+all_false = False or 0 or '' or [] or {} or None
+
+all_true = True or 1 or 'hello!' or [1, 2, 3] or {'name': 'James'} or None
