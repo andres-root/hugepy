@@ -110,6 +110,14 @@ bool(True) == True
 1 is True == False
 
 
+a > b
+a >= b
+a < b
+a <= b
+a == b
+a != b
+
+
 
 
 
