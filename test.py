@@ -22,3 +22,6 @@ the world ends"""
 
 text = '''This is the wat \n
 the world ends'''
+
+
+initialize_me = None
