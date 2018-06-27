@@ -25,3 +25,12 @@ the world ends'''
 
 
 initialize_me = None
+
+
+items = []
+
+items = [1, 2, 3]
+
+items.apend('four')
+
+items.extend([5, 6, 7])
